@@ -1,3 +1,9 @@
+![mi logo](https://telegra.ph/file/de83d951b5c4cbe37ba40.png)
+
+Esto es una copia del Bot Rose para Telegram,por si algun dia aprendemos Python y nos da por clonarlo
+
+[Mi Grupo en Telegram](https://t.me/CreaGramGrupo/1)
+
 # Marie-2.0-English
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
